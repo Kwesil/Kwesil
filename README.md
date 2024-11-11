@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Obidinma Nwabike Junior
-- 👀 I’m interested in Data Analysis, Data Science, ML and AI, Python, SQL, PowerBI, Excel
-- 🌱 I’m currently learning Business Intelligience Tools
+- 👀 I’m a Data Analyst, transitioning into AI/Ml
+- 🌱 I’m currently learning pytorch and tensorflow
 - 💞️ I’m looking to collaborate on Data Analysis and Data Science projects
-- 📫 How to reach me Email: Nwabikejr@icloud.com , Twitter: www.twitter.com/Kwesil1 , Linkedin: www.linkedin.com/in/NwabikeJr , Discord: Kwesil#9246
+- 📫 How to reach me Email: Nwabikejr@icloud.com , Twitter: www.twitter.com/Kwesill , Linkedin: www.linkedin.com/in/NwabikeJr , Discord: Kwesil#9246
 
 <!---
 Kwesil/Kwesil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
