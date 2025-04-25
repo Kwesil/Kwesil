@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Obidinma Nwabike Junior
-- 👀 I’m a Data Analyst, transitioning into AI/Ml
+- 👀 I’m a Data Scientist leveraging AI/Ml 
 - 🌱 I’m currently learning pytorch and tensorflow
-- 💞️ I’m looking to collaborate on Data Analysis and Data Science projects
+- 💞️ I’m looking to collaborate on Data Science and AI/ML projects
 - 📫 How to reach me Email: Nwabikejr@icloud.com , Twitter: www.twitter.com/Kwesill , Linkedin: www.linkedin.com/in/NwabikeJr , Discord: Kwesil#9246
 
 <!---
